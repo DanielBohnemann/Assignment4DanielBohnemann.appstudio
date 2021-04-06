@@ -25,6 +25,30 @@
             "program1",
             "program1.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "program2",
+            "program2.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "program3",
+            "program3.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "program3b",
+            "program3b.json"
+          ]
         }
       ],
       "configxml": null,
@@ -46,7 +70,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "program1",
+      "firstform": "program3",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
